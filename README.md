@@ -32,6 +32,8 @@ Update the application code in
 
 Then add/commit/push to gitlab
 
+this is yet another change on the readme file
+
 ```
 git status # to see your changes
 ```
