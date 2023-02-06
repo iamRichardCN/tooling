@@ -76,10 +76,4 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-
-6th febuary jenkins check
-
-post configuration edits
-
-### making a change
-new change 
+7TH FEB - TESTING JENKINS
